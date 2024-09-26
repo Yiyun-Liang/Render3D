@@ -6,4 +6,4 @@ Our goal is to build our computer graphics image based on this photograph but wi
 
 Final image built with ray tracing in Blender:
 
-![Rendered Image](images/highres.png)
+![Rendered Image](images/lowres.jpg)
